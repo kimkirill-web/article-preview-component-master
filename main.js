@@ -20,11 +20,6 @@ mobileCloseButton.addEventListener('click', () => {
     }
 })
 
-// bodyElementHTML.addEventListener('click', (event) => {
-//     if (event.target === bodyElementHTML) {
-//         modal.style.display = 'none'}
-// })
-
 
 document.addEventListener('click', 
     function(event) {
