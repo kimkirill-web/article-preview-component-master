@@ -1,6 +1,5 @@
 const modal = document.getElementById('share')
 const btn = document.getElementById('openModal')
-const bodyElementHTML = document.body
 const mobileCloseButton = document.getElementById('mobileCloseButton')
 
 
